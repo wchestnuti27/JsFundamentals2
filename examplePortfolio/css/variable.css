@@ -1,0 +1,12 @@
+:root {
+    --brown: #6d6656;
+    --grey: #53565a;
+    --black: #272727;
+
+    --heading-font: 'texasTango';
+}
+
+@font-face {
+    font-family: 'texasTango';
+    /* src: url('../assets/texasTango.otf') */
+}
